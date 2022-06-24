@@ -1,6 +1,6 @@
 function NewProject() {
     return (
-        <h1>Home</h1>
+        <h1>New Project</h1>
     )
 }
 
