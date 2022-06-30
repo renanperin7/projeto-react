@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Projeto Teste2",
-      "budget": "5500",
+      "name": "Projeto Teste",
+      "budget": "50000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -10,6 +10,17 @@
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "Meu Projeto 2",
+      "budget": "30000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
