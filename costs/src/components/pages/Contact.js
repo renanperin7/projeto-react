@@ -1,5 +1,4 @@
 import styles from './Contact.module.css'
-import {FaFacebook, FaInstagram, FaLinkedin} from "react-icons/fa"
 
 function Contact() {
     return (
