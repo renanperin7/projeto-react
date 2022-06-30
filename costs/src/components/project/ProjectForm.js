@@ -40,7 +40,7 @@ function ProjectForm({handleSubmit, btnText, projectData}) {
             category: {
                 id: e.target.value,
                 name: e.target.options[e.target.selectedIndex].text,
-        },
+            },
         })
     }
 
