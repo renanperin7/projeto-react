@@ -12,15 +12,22 @@
       "id": 1
     },
     {
-      "name": "Meu Projeto 2",
-      "budget": "30000",
+      "name": "Iogurte",
+      "budget": "5000000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 0,
-      "services": [],
-      "id": 2
+      "cost": 45000,
+      "services": [
+        {
+          "name": "Sabor morango",
+          "cost": "45000",
+          "description": "sabor morango",
+          "id": "027b0a8b-80cd-422f-a655-5d5d7a0165a5"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [
